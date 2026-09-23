@@ -1,0 +1,6 @@
+{
+  "name": "VisaFlow - Guide Consulaire & Réglementaire 2026",
+  "description": "Accompagnement consulaire direct pour les voyageurs africains. Vérité réglementaire, seuils financiers officiels et prévention active contre les arnaques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
